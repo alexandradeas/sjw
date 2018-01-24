@@ -1,5 +1,5 @@
 {
-  "name": "sjw",
+  "name": "sjw-normalizer",
   "version": "0.0.1",
   "description": "Normalize gender data from free text fields",
   "main": "src/index.js",
